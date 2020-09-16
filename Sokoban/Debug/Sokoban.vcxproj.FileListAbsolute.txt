@@ -1,0 +1,2 @@
+C:\Users\Administrator\source\repos\MFC\Sokoban\Debug\Sokoban.exe
+C:\Users\Administrator\source\repos\MFC\Sokoban\Debug\Sokoban.pdb
